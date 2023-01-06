@@ -131,10 +131,4 @@ public class Main {
 		Collections.sort(words);
 		return words.size() == 0 ? null : words.get(words.size() - 1);
 	}
-    
-
-    
-    
-    
-  
 }  
